@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdupal=self.webpackChunkdupal||[]).push([[898],{4797:function(a){a.exports=JSON.parse('{"label":"MDX","permalink":"/blog/tags/mdx","allTagsPath":"/blog/tags","count":1}')}}]);
